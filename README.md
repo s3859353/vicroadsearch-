@@ -39,4 +39,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Demo
 
-Demo of the application could be found here:  [Next.js deployment documentation](https://vicroadsearch-9f31.vercel.app/)
+Demo of the application could be found here:  [vicroad_search](https://vicroadsearch-9f31.vercel.app/)
